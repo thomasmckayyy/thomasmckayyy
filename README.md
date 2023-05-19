@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Student enrolled in FullStack Data Analytics course</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasmckayyy" alt="thomasmckayyy" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science and Analytics**
 
 - 📫 How to reach me **mckay11.88@gmail.com**
