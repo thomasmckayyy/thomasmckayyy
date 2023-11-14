@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Student enrolled in FullStack Data Analytics course</h3>
+<h1 align="center">Thomas McKay</h1>
+<h3 align="center">Data Analyst/Business Intelligence</h3>
 
 - 🌱 I’m currently learning **Data Science and Analytics**
 
