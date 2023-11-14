@@ -1,13 +1,19 @@
 <div>
   <h1 align= "center">Thomas McKay</h1>
   </div>
+
 <div>
   <h2> About Me</h2>
 </div>
+
 <p>
   Recent Data Analyst graduate of Full Stack Academy. Looking to solve business problems using statistics, machine learning and creating visuals to easier understand the findings. Constantly looking to improve and grow in the data science field.
 </p>
+
+<div>
 <h3>My Skills:</h3>
+  </div>
+
 <h4>
   Business
 </h4>
@@ -24,6 +30,7 @@
 <li><strong>Pandas:</strong> Proficiency in Pandas for data analysis and manipulation</li>
 <li><strong>Numpy:</strong> Proficieny in NumPy for mathmatical analysis</li>
 <li><strong>SKLearn:</strong> Proficiency in Sckit-learn for machine learning and statistical modeling.</li>
+
 
 <h4>
   Coding
@@ -42,4 +49,4 @@
 </H4>
 
 
-<a title="" href="https://linkedin.com/thomasmckayda"></a> 
+<a title="" href="https://linkedin.com/thomasmckayda" target="_blank">Linkedin Logo</a> 
